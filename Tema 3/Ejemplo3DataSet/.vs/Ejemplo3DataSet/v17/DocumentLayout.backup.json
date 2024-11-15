@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\ejemplo3dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|solutionrelative:ejemplo3dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\ejemplo3dataset\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|solutionrelative:ejemplo3dataset\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|c:\\users\\jimmy\\source\\repos\\ejemplo3dataset\\ejemplo3dataset\\vista\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|solutionrelative:ejemplo3dataset\\vista\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|c:\\users\\jimmy\\source\\repos\\ejemplo3dataset\\ejemplo3dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|solutionrelative:ejemplo3dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|c:\\users\\jimmy\\source\\repos\\ejemplo3dataset\\ejemplo3dataset\\controlador\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750D00AA-AEB7-4350-8B0F-B716836CDCCD}|Ejemplo3DataSet\\Ejemplo3DataSet.csproj|solutionrelative:ejemplo3dataset\\controlador\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejemplo3DataSet\\Vista\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejemplo3DataSet\\Vista\\Form1.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:52:49.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo3DataSet\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.cs",
+              "RelativeToolTip": "Ejemplo3DataSet\\Vista\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:51:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BBDD.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Controlador\\BBDD.cs",
+              "RelativeDocumentMoniker": "Ejemplo3DataSet\\Controlador\\BBDD.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Controlador\\BBDD.cs",
+              "RelativeToolTip": "Ejemplo3DataSet\\Controlador\\BBDD.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:46:59.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejemplo3DataSet\\Vista\\Form2.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo3DataSet\\Vista\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:42:30.552Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo3DataSet\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo3DataSet\\Vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:36:16.608Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
