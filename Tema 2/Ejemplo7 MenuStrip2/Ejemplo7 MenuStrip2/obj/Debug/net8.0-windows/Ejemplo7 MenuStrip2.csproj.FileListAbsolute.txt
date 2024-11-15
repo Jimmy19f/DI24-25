@@ -1,0 +1,16 @@
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\bin\Debug\net8.0-windows\Ejemplo7 MenuStrip2.exe
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\bin\Debug\net8.0-windows\Ejemplo7 MenuStrip2.deps.json
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\bin\Debug\net8.0-windows\Ejemplo7 MenuStrip2.runtimeconfig.json
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\bin\Debug\net8.0-windows\Ejemplo7 MenuStrip2.dll
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\bin\Debug\net8.0-windows\Ejemplo7 MenuStrip2.pdb
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7_MenuStrip2.Form1.resources
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.AssemblyInfoInputs.cache
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.AssemblyInfo.cs
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.dll
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\refint\Ejemplo7 MenuStrip2.dll
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.pdb
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\Ejemplo7 MenuStrip2.genruntimeconfig.cache
+C:\Users\Jimmy\source\repos\Ejemplo7 MenuStrip2\Ejemplo7 MenuStrip2\obj\Debug\net8.0-windows\ref\Ejemplo7 MenuStrip2.dll

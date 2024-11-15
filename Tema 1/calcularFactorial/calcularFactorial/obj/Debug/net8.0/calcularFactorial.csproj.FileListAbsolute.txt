@@ -1,0 +1,14 @@
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\bin\Debug\net8.0\calcularFactorial.exe
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\bin\Debug\net8.0\calcularFactorial.deps.json
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\bin\Debug\net8.0\calcularFactorial.runtimeconfig.json
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\bin\Debug\net8.0\calcularFactorial.dll
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\bin\Debug\net8.0\calcularFactorial.pdb
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.AssemblyInfoInputs.cache
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.AssemblyInfo.cs
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.dll
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\refint\calcularFactorial.dll
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.pdb
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\calcularFactorial.genruntimeconfig.cache
+C:\Users\Jimmy\source\repos\calcularFactorial\calcularFactorial\obj\Debug\net8.0\ref\calcularFactorial.dll
