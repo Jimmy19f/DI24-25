@@ -95,9 +95,13 @@ namespace Ejemplo1DataSet.Controlador
             
         }
 
-        public void Insertar()
+        public void Insertar(string dni, string nombre, string apellidos, string telefono, string email)
         {
-            String consulta = "INSERT INTO `";
+            String consulta = $"INSERT INTO `ingenieros`.`forestales` (`dni`, `nombre`, `apellidos`, `telefono`, `e-mail`) VALUES('{dni}', '{nombre}', '{apellidos}', '{telefono}', '{email}');";
+            comando = new MySqlCommand (consulta, conexion);
+            AbrirConexion ();
+            comando.ExecuteNonQuery();
+            CerrarConexion ();
             
 
         }

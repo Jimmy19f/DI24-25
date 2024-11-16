@@ -29,3 +29,35 @@ C:\Users\Jimmy\source\repos\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-win
 C:\Users\Jimmy\source\repos\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.genruntimeconfig.cache
 C:\Users\Jimmy\source\repos\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\ref\Ejemplo1DataSet.dll
 C:\Users\Jimmy\source\repos\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.Vista.Form1.resources
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Ejemplo1DataSet.exe
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Ejemplo1DataSet.deps.json
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Ejemplo1DataSet.runtimeconfig.json
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Ejemplo1DataSet.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Ejemplo1DataSet.pdb
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.Vista.Form1.resources
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.csproj.GenerateResource.cache
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.AssemblyInfo.cs
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.sourcelink.json
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1.34B2E987.Up2Date
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\refint\Ejemplo1DataSet.dll
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.pdb
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\Ejemplo1DataSet.genruntimeconfig.cache
+C:\Users\Jimmy\Desktop\Curso2024-2025\Desarollo-de-interfaces\Tema 3\Ejemplo1DataSet\Ejemplo1DataSet\obj\Debug\net8.0-windows\ref\Ejemplo1DataSet.dll

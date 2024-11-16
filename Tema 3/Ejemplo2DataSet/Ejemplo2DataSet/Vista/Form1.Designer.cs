@@ -36,6 +36,16 @@
             label2 = new Label();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
+            lblDni = new Label();
+            lblNombre = new Label();
+            lblApellido = new Label();
+            lblTelefono = new Label();
+            lblemail = new Label();
+            txtBoxDni = new TextBox();
+            txtBoxNombre = new TextBox();
+            txtBoxApellido = new TextBox();
+            txtBoxTelefono = new TextBox();
+            txtBoxEmail = new TextBox();
             SuspendLayout();
             // 
             // LisNombreColumnas
@@ -45,6 +55,7 @@
             LisNombreColumnas.Name = "LisNombreColumnas";
             LisNombreColumnas.Size = new Size(226, 244);
             LisNombreColumnas.TabIndex = 0;
+            LisNombreColumnas.DoubleClick += LisNombreColumnas_DoubleClick;
             // 
             // labelNumeroColumnas
             // 
@@ -62,6 +73,7 @@
             lisContenidoColumna.Name = "lisContenidoColumna";
             lisContenidoColumna.Size = new Size(241, 244);
             lisContenidoColumna.TabIndex = 2;
+            lisContenidoColumna.DoubleClick += lisContenidoColumna_DoubleClick;
             // 
             // labelNumeroFilas
             // 
@@ -104,11 +116,101 @@
             textBox2.Size = new Size(125, 27);
             textBox2.TabIndex = 7;
             // 
+            // lblDni
+            // 
+            lblDni.AutoSize = true;
+            lblDni.Location = new Point(1163, 27);
+            lblDni.Name = "lblDni";
+            lblDni.Size = new Size(35, 20);
+            lblDni.TabIndex = 8;
+            lblDni.Text = "DNI";
+            // 
+            // lblNombre
+            // 
+            lblNombre.AutoSize = true;
+            lblNombre.Location = new Point(1163, 73);
+            lblNombre.Name = "lblNombre";
+            lblNombre.Size = new Size(64, 20);
+            lblNombre.TabIndex = 9;
+            lblNombre.Text = "Nombre";
+            // 
+            // lblApellido
+            // 
+            lblApellido.AutoSize = true;
+            lblApellido.Location = new Point(1163, 116);
+            lblApellido.Name = "lblApellido";
+            lblApellido.Size = new Size(66, 20);
+            lblApellido.TabIndex = 10;
+            lblApellido.Text = "Apellido";
+            // 
+            // lblTelefono
+            // 
+            lblTelefono.AutoSize = true;
+            lblTelefono.Location = new Point(1163, 158);
+            lblTelefono.Name = "lblTelefono";
+            lblTelefono.Size = new Size(67, 20);
+            lblTelefono.TabIndex = 11;
+            lblTelefono.Text = "Telefono";
+            // 
+            // lblemail
+            // 
+            lblemail.AutoSize = true;
+            lblemail.Location = new Point(1163, 202);
+            lblemail.Name = "lblemail";
+            lblemail.Size = new Size(52, 20);
+            lblemail.TabIndex = 12;
+            lblemail.Text = "e-mail";
+            // 
+            // txtBoxDni
+            // 
+            txtBoxDni.Location = new Point(891, 24);
+            txtBoxDni.Name = "txtBoxDni";
+            txtBoxDni.Size = new Size(256, 27);
+            txtBoxDni.TabIndex = 13;
+            // 
+            // txtBoxNombre
+            // 
+            txtBoxNombre.Location = new Point(891, 70);
+            txtBoxNombre.Name = "txtBoxNombre";
+            txtBoxNombre.Size = new Size(256, 27);
+            txtBoxNombre.TabIndex = 14;
+            // 
+            // txtBoxApellido
+            // 
+            txtBoxApellido.Location = new Point(891, 113);
+            txtBoxApellido.Name = "txtBoxApellido";
+            txtBoxApellido.Size = new Size(256, 27);
+            txtBoxApellido.TabIndex = 15;
+            // 
+            // txtBoxTelefono
+            // 
+            txtBoxTelefono.Location = new Point(891, 155);
+            txtBoxTelefono.Name = "txtBoxTelefono";
+            txtBoxTelefono.Size = new Size(256, 27);
+            txtBoxTelefono.TabIndex = 16;
+            // 
+            // txtBoxEmail
+            // 
+            txtBoxEmail.Location = new Point(891, 199);
+            txtBoxEmail.Name = "txtBoxEmail";
+            txtBoxEmail.Size = new Size(256, 27);
+            txtBoxEmail.TabIndex = 17;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1343, 450);
+            Controls.Add(txtBoxEmail);
+            Controls.Add(txtBoxTelefono);
+            Controls.Add(txtBoxApellido);
+            Controls.Add(txtBoxNombre);
+            Controls.Add(txtBoxDni);
+            Controls.Add(lblemail);
+            Controls.Add(lblTelefono);
+            Controls.Add(lblApellido);
+            Controls.Add(lblNombre);
+            Controls.Add(lblDni);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(label2);
@@ -133,5 +235,15 @@
         private Label label2;
         private TextBox textBox1;
         private TextBox textBox2;
+        private Label lblDni;
+        private Label lblNombre;
+        private Label lblApellido;
+        private Label lblTelefono;
+        private Label lblemail;
+        private TextBox txtBoxDni;
+        private TextBox txtBoxNombre;
+        private TextBox txtBoxApellido;
+        private TextBox txtBoxTelefono;
+        private TextBox txtBoxEmail;
     }
 }

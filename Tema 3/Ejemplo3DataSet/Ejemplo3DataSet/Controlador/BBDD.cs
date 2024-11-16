@@ -15,49 +15,22 @@ namespace Ejemplo1DataSet.Controlador
         private MySqlDataAdapter adaptador;
         private DataSet almacen;
 
-        public BBDD()
-        {
-            try
-            {
-
-                conexion = new MySqlConnection("server=localhost;port=3306;user id = root; password = dam2; database = ingenieros; Allow Zero Datetime = True; CHARSET = utf8");
-                comando = new MySqlCommand("SELECT * FROM forestales", conexion);
-                adaptador = new MySqlDataAdapter(comando);
-                almacen = new DataSet();
-                AbrirConexion();
-                adaptador.Fill(almacen, "for");
-                CerrarConexion();
-            }
-            catch (MySqlException ex) {
-                {
-                    MessageBox.Show("Error al conectar al servidor MySql: " + ex.Message);
-                }
-            }
-
-
-        }
-
-        public bool Conectar (string servidor, string puerto, string usuario, string pass)
+        public bool Conectar(string servidor, string puerto, string usuario, string pass)
         {
             try
             {
                 string cadenaConexion = $"server={servidor};port={puerto};user id ={usuario};password={pass}";
                 conexion = new MySqlConnection(cadenaConexion);
-                comando = new MySqlCommand("SELECT * FROM ingenieros.forestales", conexion);
-                adaptador = new MySqlDataAdapter(comando);
-                almacen = new DataSet();
 
                 AbrirConexion();
-                adaptador.Fill(almacen, "for");
                 CerrarConexion();
                 return true;
             }
             catch (MySqlException ex)
             {
-                MessageBox.Show("Error al conectar al servidor de MySQL: " + ex.Message );
+                MessageBox.Show("Error al conectar al servidor MySql: " + ex.Message);
                 return false;
             }
-
         }
 
         public bool ConectarWorld(string servidor, string puerto, string usuario, string pass)
@@ -66,21 +39,16 @@ namespace Ejemplo1DataSet.Controlador
             {
                 string cadenaConexion = $"server={servidor};port={puerto};user id ={usuario};password={pass}";
                 conexion = new MySqlConnection(cadenaConexion);
-                comando = new MySqlCommand("SELECT * FROM ingenieros.forestales", conexion);
-                adaptador = new MySqlDataAdapter(comando);
-                almacen = new DataSet();
 
                 AbrirConexion();
-                adaptador.Fill(almacen, "for");
                 CerrarConexion();
                 return true;
             }
             catch (MySqlException ex)
             {
-                MessageBox.Show("Error al conectar al servidor de MySQL: " + ex.Message);
+                MessageBox.Show("Error al conectar al servidor MySql: " + ex.Message);
                 return false;
             }
-
         }
         private void AbrirConexion()
         {
@@ -97,7 +65,7 @@ namespace Ejemplo1DataSet.Controlador
             conexion.Close();
         }
 
-        public DataView ObtenerGrid()
+        public bool CargarEnMemoria()
         {
             try
             {
@@ -106,24 +74,90 @@ namespace Ejemplo1DataSet.Controlador
                 almacen = new DataSet();
 
                 AbrirConexion();
+
                 adaptador.Fill(almacen, "for");
+
                 CerrarConexion();
-                return almacen.Tables["for"].DefaultView;
+                return true;
+
             }
             catch (MySqlException ex)
             {
-                MessageBox.Show("Error al conectar al servidor de MySQL: " + ex.Message, "Error al conectar");
-                return null;
+                MessageBox.Show("Error al conectar al servidor MySql: " + ex.Message);
+                return false;
             }
-            
         }
 
-        public void Insertar()
+        public DataView ObtenerGrid()
         {
-            String consulta = "INSERT INTO `";
-            
+            if (CargarEnMemoria()) return almacen.Tables["for"].DefaultView;
+            else return null;
 
         }
+
+        public void Insertar(string dni, string nombre, string apellidos, string telefono, string email)
+        {
+
+
+            String consulta = $"INSERT INTO `ingenieros`.`forestales` (`dni`, `nombre`, `apellidos`, `telefono`, `e-mail`) VALUES('{dni}', '{nombre}', '{apellidos}', '{telefono}', '{email}');";
+            comando = new MySqlCommand(consulta, conexion);
+            AbrirConexion();
+            comando.ExecuteNonQuery();
+            CerrarConexion();
+
+
+
+
+        }
+
+        public List<string> ObtenerNombreColumnas()
+        {
+            List<string> listaDevolver = new List<string>();
+            if (CargarEnMemoria())
+            {
+                foreach (DataColumn columna in almacen.Tables["for"].Columns)
+                {
+                    listaDevolver.Add(columna.ColumnName);
+                }
+                //MessageBox.Show(almacen.Tables["for"].Rows[1][1].ToString());
+
+            }
+            return listaDevolver;
+
+
+
+        }
+
+        public List<string> ObtenerElementosColumna(int indice)
+        {
+
+            List<string> listaDevolver = new List<string>();
+            if (CargarEnMemoria())
+            {
+                foreach (DataRow fila in almacen.Tables["for"].Rows)
+                {
+                    listaDevolver.Add(fila[indice].ToString());
+                }
+            }
+            return listaDevolver;
+
+        }
+
+        /*public forestales ObtenerFila(int indice)
+        {
+            forestales forestal = new forestales();
+            if (CargarEnMemoria())
+            {
+                forestal.DNI = almacen.Tables["for"].Rows[indice][0].ToString();
+                forestal.Nombre = almacen.Tables["for"].Rows[indice][1].ToString();
+                forestal.Apellidos = almacen.Tables["for"].Rows[indice][2].ToString();
+                forestal.Telefono = almacen.Tables["for"].Rows[indice][3].ToString();
+                forestal.Email = almacen.Tables["for"].Rows[indice][4].ToString();
+            }
+            return forestal;
+
+        }
+        */
 
 
     } 

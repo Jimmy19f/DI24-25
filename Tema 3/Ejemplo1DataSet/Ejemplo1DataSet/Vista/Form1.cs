@@ -13,12 +13,6 @@ namespace Ejemplo1DataSet.Vista
             //miBBDD = new BBDD();
         }
 
-        private void btn1_Click(object sender, EventArgs e)
-        {
-            dataGridView1.DataSource = miBBDD.ObtenerGrid();
-            //almacen.Tables["for"].Rows[0][2];
-
-        }
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
@@ -34,5 +28,17 @@ namespace Ejemplo1DataSet.Vista
                 MessageBox.Show("No se pudo conectar a la base de datos. Verifique las credenciales y la conexión.", "Error de conexión");
             }
         }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = miBBDD.ObtenerGrid();
+            //almacen.Tables["for"].Rows[0][2];
+        }
+
+        private void BtnInsertar_Click(object sender, EventArgs e)
+        {
+            miBBDD.Insertar(txtBoxDni.Text, txtBoxNombre.Text, txtBoxApellidos.Text, txtBoxTelefono.Text, txtBoxEmail.Text);
+        }
+
     }
 }

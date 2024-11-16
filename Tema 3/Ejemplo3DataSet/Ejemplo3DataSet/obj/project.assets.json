@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Ejemplo3DataSet.csproj",
+      "projectUniqueName": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo3DataSet\\Ejemplo3DataSet\\Ejemplo3DataSet.csproj",
       "projectName": "Ejemplo3DataSet",
-      "projectPath": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\Ejemplo3DataSet.csproj",
+      "projectPath": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo3DataSet\\Ejemplo3DataSet\\Ejemplo3DataSet.csproj",
       "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo3DataSet\\Ejemplo3DataSet\\obj\\",
+      "outputPath": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo3DataSet\\Ejemplo3DataSet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\",
+  "WorkspaceRootPath": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|solutionrelative:ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|c:\\users\\jimmy\\source\\repos\\ejemplo1dataset\\ejemplo1dataset\\controlador\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|c:\\users\\jimmy\\desktop\\curso2024-2025\\desarollo-de-interfaces\\tema 3\\ejemplo1dataset\\ejemplo1dataset\\controlador\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|solutionrelative:ejemplo1dataset\\controlador\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|c:\\users\\jimmy\\source\\repos\\ejemplo1dataset\\ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|c:\\users\\jimmy\\desktop\\curso2024-2025\\desarollo-de-interfaces\\tema 3\\ejemplo1dataset\\ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|solutionrelative:ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|c:\\users\\jimmy\\desktop\\curso2024-2025\\desarollo-de-interfaces\\tema 3\\ejemplo1dataset\\ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1258402C-51E3-411C-BDE3-27225D2BB53A}|Ejemplo1DataSet\\Ejemplo1DataSet.csproj|solutionrelative:ejemplo1dataset\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BBDD.cs",
-              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Controlador\\BBDD.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Controlador\\BBDD.cs",
               "RelativeDocumentMoniker": "Ejemplo1DataSet\\Controlador\\BBDD.cs",
-              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Controlador\\BBDD.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Controlador\\BBDD.cs",
               "RelativeToolTip": "Ejemplo1DataSet\\Controlador\\BBDD.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFAAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T09:53:43.314Z",
               "IsPinned": true,
@@ -46,26 +46,26 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
               "RelativeDocumentMoniker": "Ejemplo1DataSet\\Vista\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
               "RelativeToolTip": "Ejemplo1DataSet\\Vista\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T09:17:41.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs",
               "RelativeDocumentMoniker": "Ejemplo1DataSet\\Vista\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejemplo1DataSet\\Vista\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Jimmy\\Desktop\\Curso2024-2025\\Desarollo-de-interfaces\\Tema 3\\Ejemplo1DataSet\\Ejemplo1DataSet\\Vista\\Form1.cs [Design]",
+              "RelativeToolTip": "Ejemplo1DataSet\\Vista\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T09:12:53.984Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

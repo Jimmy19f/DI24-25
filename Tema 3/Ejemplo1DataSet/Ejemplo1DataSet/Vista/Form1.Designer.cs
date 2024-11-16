@@ -66,7 +66,7 @@
             btnMostrar.TabIndex = 0;
             btnMostrar.Text = "Mostrar";
             btnMostrar.UseVisualStyleBackColor = true;
-            btnMostrar.Click += btn1_Click;
+            btnMostrar.Click += btnMostrar_Click;
             // 
             // dataGridView1
             // 
@@ -200,8 +200,9 @@
             BtnInsertar.Name = "BtnInsertar";
             BtnInsertar.Size = new Size(94, 29);
             BtnInsertar.TabIndex = 10;
-            BtnInsertar.Text = "button1";
+            BtnInsertar.Text = "Insertar";
             BtnInsertar.UseVisualStyleBackColor = true;
+            BtnInsertar.Click += BtnInsertar_Click;
             // 
             // txtBoxEmail
             // 
@@ -241,7 +242,7 @@
             txtBoxDni.Name = "txtBoxDni";
             txtBoxDni.Size = new Size(125, 27);
             txtBoxDni.TabIndex = 5;
-            txtBoxDni.Text = "345123678C";
+            txtBoxDni.Text = "34512368C";
             // 
             // lblEmail
             // 

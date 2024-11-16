@@ -11,9 +11,10 @@ namespace Ejemplo3DataSet
         private void btnConectar_Click(object sender, EventArgs e)
         {
             BBDD baseDeDatos = new BBDD();
-            if (baseDeDatos.ConectarWorld(textBoxServidor.Text, textBoxUsuario.Text, textBoxContraseña.Text, textBoxPuerto.Text))
+            if (baseDeDatos.ConectarWorld(textBoxServidor.Text, textBoxPuerto.Text, textBoxUsuario.Text, textBoxContraseña.Text))
             {
-
+                Form2 nuevoForm = new Form2(baseDeDatos);
+                nuevoForm.Show();
             }
         }
     }
